@@ -1,4 +1,4 @@
-# Velobike2
+# Velobike Bot
 
 A Telegram bot and API gateway for managing Velobike accounts, searching and renting bikes, and automating account authentication.  
 Includes a FastAPI backend, Telegram bot (aiogram), and database integration (PostgreSQL via SQLAlchemy).
