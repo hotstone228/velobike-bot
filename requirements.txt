@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+aiohttp
+sqlalchemy
+pydantic
+yarl
+starlette
+pyyaml
+requests
+aiogram
+opencv-python
+numpy
+pyzbar
+patchright
